@@ -1,0 +1,13 @@
+Instancia: app_eu
+Organización: 10005
+
+
+Configuración:
+Tipo de gráfico: gráfico de barrras
+Datos: Formularios con fecha de último envío (form_last_submitted_date)
+Eje X: Semana (formato 2026-W13)
+Eje Y: Conteo de formularios
+Agrupación: unidad operativa
+Filtros interactivos:
+Período (default: últimos 3 meses)
+Drill-down: Al hacer clic en una barra muestra proyecto
